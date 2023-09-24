@@ -21,6 +21,8 @@ USUARIO: LIGA
 CONTRASEÑA: 2023
 
 ARQUITECTURA MVC
+
+
 El proyecto seguirá la arquitectura Modelo Vista Controlador (MVC), la cual divide el código en distintas funciones, manteniendo capas separadas que se ocupan de tareas específicas. Esto proporciona una organización más efectiva, facilita el mantenimiento y promueve la reutilización del código en la aplicación.
 
 MODELO: El modelo en una aplicación de software se encarga de la estructura lógica de los datos, sin incluir detalles sobre la interfaz de usuario. Su función principal es actuar como un intermediario entre la vista, el controlador y la base de datos. 
