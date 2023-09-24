@@ -3,7 +3,7 @@
 ![R](https://github.com/NICOLE222215/LIGABETFEM23/assets/142114500/f2367977-5e46-49dd-b590-846e9d61a0ff)
 
 
-![image](https://github.com/NICOLE222215/LIGABETFEM23/assets/142114500/3c64f5ef-dcd9-4bd3-be60-2afdead8f085)
+![image](https://github.com/NICOLE222215/LIGABETFEM23/assets/142114500/4eb9f30c-8e74-49f5-a11e-660b765b3d70)
 
 
 
@@ -23,7 +23,7 @@ APP LIGABETFEM23
 USUARIO: LIGA
 CONTRASEÑA: 2023
 
-ARQUITECTURA MVC
+![image](https://github.com/NICOLE222215/LIGABETFEM23/assets/142114500/0693502a-4008-478f-9b8b-c291cc3f3cea)
 
 
 El proyecto seguirá la arquitectura Modelo Vista Controlador (MVC), la cual divide el código en distintas funciones, manteniendo capas separadas que se ocupan de tareas específicas. Esto proporciona una organización más efectiva, facilita el mantenimiento y promueve la reutilización del código en la aplicación.
