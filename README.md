@@ -6,6 +6,7 @@
 ![image](https://github.com/NICOLE222215/LIGABETFEM23/assets/142114500/06eadaea-0f43-449c-ba97-bc6db95a1e4d)
 
 
+![image](https://github.com/NICOLE222215/LIGABETFEM23/assets/142114500/496b28f4-dfef-4c5a-be86-7ffe3d4f7410)
 
 
 Este proyecto consiste en una aplicación de interfaz gráfica desarrollada en Java que utiliza Programación Orientada a Objetos (POO) para organizar y administrar los datos de los equipos participantes en la Liga Femenina BetPlay 2023. Se hacen uso de clases y objetos para representar y controlar diversos componentes de la aplicación, como ventanas, etiquetas, campos de texto y botones. Asimismo, se implementa herencia para crear instancias específicas de equipos y se incorpora un sistema de autenticación para acceder a la aplicación. La interfaz gráfica está diseñada para ofrecer una experiencia de usuario intuitiva y atractiva, facilitando la interacción con la información de los equipos.
