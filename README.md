@@ -4,6 +4,16 @@
 
 
 
+[![Build and Deploy](https://github.com/kratostaine/spring-authorization-server/actions/workflows/continuous-integration-workflow.yml/badge.svg)](https://github.com/kratostaine/spring-authorization-server/actions/workflows/continuous-integration-workflow.yml)
+
+
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+	![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white)
+
+
+![image](https://github.com/NICOLE222215/LIGABETFEM23/assets/142114500/09923ca9-bd14-4302-b7c1-9f54f1f564ac)
+
+
 
 
 ![image](https://github.com/NICOLE222215/LIGABETFEM23/assets/142114500/496b28f4-dfef-4c5a-be86-7ffe3d4f7410)
@@ -13,7 +23,7 @@ Este proyecto consiste en una aplicación de interfaz gráfica desarrollada en J
 
 A través de esta aplicación en Java, los usuarios tendrán la oportunidad de explorar la Liga BetPlay Femenino 2023, descubrir detalles de equipos y partidos, y al mismo tiempo, experimentar de manera práctica conceptos clave de la POO. Desde herencia hasta polimorfismo, esta iniciativa ofrece una introducción única a la POO mientras disfrutan del entusiasmo del fútbol femenino.
 
-*Acceso al proyecto
+## ACCESO AL PROYECTO
 
 Las siguientes son las credenciales utilizadas para el proyecto.
 
@@ -48,6 +58,51 @@ El Controlador responde a las peticiones del cliente (usuario) hechas a través 
 
 
 ![image](https://github.com/NICOLE222215/LIGABETFEM23/assets/142114500/31284d78-1a48-4fda-88b8-e727996c0f23)
+
+## ESTADO DEL PROYECTO
+
+[![Build and Deploy](https://github.com/kratostaine/spring-authorization-server/actions/workflows/continuous-integration-workflow.yml/badge.svg)](https://github.com/kratostaine/spring-authorization-server/actions/workflows/continuous-integration-workflow.yml)
+
+## TECNOLOGÍAS UTILIZADAS
+
+![image](https://github.com/NICOLE222215/LIGABETFEM23/assets/142114500/ee3f362a-db1d-4955-81e9-cb89764413c0)
+
+
+![image](https://github.com/NICOLE222215/LIGABETFEM23/assets/142114500/3960b9cd-d72e-4a3c-8f8c-5c2f4130430c)
+
+
+
+## VISUALIZACIÓN DEL PROYECTO 
+
+
+
+Esta aplicación tiene como objetivo ser una plataforma interactiva y de consulta para los seguidores de la Liga BetPlay Femenina 2023. Además, se garantiza que las utilidades disponibles serán completamente efectivas y beneficiosas para cada usuario.
+
+
+![image](https://github.com/NICOLE222215/LIGABETFEM23/assets/142114500/57da3c22-ff2e-423d-bd62-da62147f5511)
+
+
+![image](https://github.com/NICOLE222215/LIGABETFEM23/assets/142114500/7edd12e5-01d0-43ba-b9f4-65b64149e1ab)
+
+
+## CONLUSIÓN
+
+Este proyecto se centra en gestionar información relacionada con los equipos de fútbol femenino que participaron en la Liga BetPlay 2023, proporcionando un detallado análisis del rendimiento de dichos equipos en la liga. La implementación de una interfaz gráfica atractiva y personalizada, junto con un sistema de autenticación, subraya la importancia de garantizar la seguridad y el acceso regulado a la aplicación, lo que resulta fundamental para proteger la información y las funciones del programa. Además, la utilización de Programación Orientada a Objetos (POO), mediante la implementación de clases y objetos, demuestra una aplicación coherente de este enfoque, lo que simplifica la estructuración y manipulación de la información, así como favorece la reutilización eficiente de código. La inclusión de elementos como botones y campos de texto refleja un enfoque en la usabilidad y la interacción intuitiva, lo que facilita que los usuarios puedan navegar y utilizar el aplicativo de manera sencilla.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
